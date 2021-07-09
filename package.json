@@ -13,6 +13,6 @@
 	},
 	"scripts": {
 		"start": "parcel serve ./development/index.njk",
-		"build": "parcel build ./development/index.njk"
+		"build": "parcel build ./development/index.njk --no-minify"
 	}
 }

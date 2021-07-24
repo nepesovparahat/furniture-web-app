@@ -16,7 +16,7 @@ A responsive website built using BEM Methodology.
 - PARCEL
 
 
-This homework is a collaborative effort. Team members:
+This homework is a collaborative effort. Team members: [Aydogan](https://github.com/aydgn) | [Elnaz](https://github.com/Elnazhmd) | [Ibrahim](https://github.com/ibrahimdoss)
 
 To run the project;
 `parcel serve ./development/index.njk`

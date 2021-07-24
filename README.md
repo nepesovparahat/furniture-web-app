@@ -1,5 +1,20 @@
-# responsive-template
-A responsive website built using Nunjucks, SCSS, BEM Methodology.
+## Responsive-template
+ This project, kodluyoruz It is a small application that we did as a group work in the Bootcamp assignment.
+A responsive website built using BEM Methodology.
+> ### Project Link: [Furniture-web-app](https://furniture-web-app.netlify.app/)
+---
+## Screenshots
+![furniture-web-app netlify app_1](https://user-images.githubusercontent.com/67821216/126859919-802262a8-8567-4529-9bea-c8aa1a029303.jpg)
+
+---
+## Technologies
+
+**Builded with :**
+
+- Nunjucks
+- SCSS
+- PARCEL
+
 
 This homework is a collaborative effort. Team members:
 
